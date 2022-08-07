@@ -1,4 +1,7 @@
 /* hero background image */
+*{
+    color:#000;
+}
 .bgimage {
     height:100vh;
     background: url('/image/heroImage.jpeg');
